@@ -18,7 +18,7 @@ public class Main {
     } else if (userNum >= 181440.01 && userNum <= 258482){
         System.out.println("4");
 
-    } else if (userNum >= 258482.01 && userNum){
+    } else if (userNum >= 258482.01){
         System.out.println("5");
 
     scannerObj.close();
