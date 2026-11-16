@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
     Scanner scannerObj = new Scanner(System.in);
-    int userNum = Integer.parseInt(scannerObj.nextLine());
+    long userNum = Long.parseLong(scannerObj.nextLine());
 
     if (userNum <= 58523){
         System.out.println("1");
